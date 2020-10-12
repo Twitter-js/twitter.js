@@ -1,3 +1,5 @@
+'use strict';
+
 module.exports = {
   // "Root" classes
   Client: require('./client/Client'),
